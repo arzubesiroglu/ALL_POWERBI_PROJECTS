@@ -1,4 +1,4 @@
-![Power BI Logo](https://powerbi.microsoft.com/favicon.ico)
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/3/4e/Power_BI_Logo.svg)
 
 # ALL_POWERBI_PROJECTS
 
@@ -22,7 +22,7 @@ You can explore my Power BI projects directly on my Power BI Public profile: [Ar
 
 ---
 
-# ALL_POWERBI_PROJECTS
+# TÜM_POWERBI_PROJELERİ
 
 📁 **Power BI Projeleri Reposuna Hoş Geldiniz!** 🔍  
 🎯 Bu repo, Power BI kullanarak oluşturulmuş çeşitli **Veri Analizi** projelerini içermektedir.  
