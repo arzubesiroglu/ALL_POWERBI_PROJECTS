@@ -1,4 +1,4 @@
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/3/4e/Power_BI_Logo.svg)
+![Power BI Logo](https://static.powerbi.com/p/powerbi_logo.svg)
 
 # ALL_POWERBI_PROJECTS
 
